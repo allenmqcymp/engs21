@@ -152,8 +152,7 @@ class LEDThread(threading.Thread):
 
 	def run(self):
 		count_str = str(counter)
-		graphics.DrawText(self.matrix, self.font, self.options.rows // 2, self.options.cols // 2 - 10, self.green, "GRP 8")
-#		graphics.DrawText(self.matrix, self.font, self.options.rows // 2, self.options.cols // 2, self.blue, count_str)
+		graphics.DrawText(self.matrix, self.font, self.options.rows // 2, self.options.cols // 2, self.blue, count_str)
 
 		while True:
 			val = self.queue.get()
