@@ -5,11 +5,13 @@ needing an efficient method to count people in a closed space during the Coronav
 
 # Project Architecture
 
-[arch](architectre.png)
+[arch](arch.png)
 
 
 # Demonstration
 
 Check out our video here:
 
-https://www.youtube.com/watch?v=vM-j-uprmcI&feature=youtu.be
+
+[![vid-engs21](https://img.youtube.com/vi/vM-j-uprmcI/0.jpg)](https://www.youtube.com/watch?v=vM-j-uprmcI&feature=youtu.be)
+
