@@ -5,7 +5,7 @@ needing an efficient method to count people in a closed space during the Coronav
 
 # Project Architecture
 
-[arch](arch.png)
+![arch](arch.png)
 
 
 # Demonstration
